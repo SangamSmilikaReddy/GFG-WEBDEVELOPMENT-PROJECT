@@ -1,0 +1,47 @@
+
+.nav_css{
+    position: absolute;
+}
+.main-box{
+    background-color: #6f5acd;
+    margin-top: 90px;
+    display: flex;
+    justify-content: baseline;
+}
+.sections2{
+    padding-top: 40px;
+}
+.sections2 h1{
+    padding-left: 60px;
+}
+.box-4{
+    margin-left: 90px;
+    margin-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 600px;
+    margin-bottom: 60px;
+}
+.box{
+    background-color: #c8bcff;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 200px;
+    width: 250px;
+    
+}
+.box h3{
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+.box p{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#About-img{
+    border-radius: 0%;
+    margin-left: 30px;
+}
